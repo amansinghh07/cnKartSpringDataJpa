@@ -1,6 +1,5 @@
 package com.example.cnKart.service;
 
-import com.example.cnKart.dal.ItemDAL;
 import com.example.cnKart.dal.OrderDal;
 import com.example.cnKart.entity.Item;
 import com.example.cnKart.entity.Order;

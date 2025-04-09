@@ -1,6 +1,5 @@
 package com.example.cnKart.service;
 
-import com.example.cnKart.dal.ItemReviewDal;
 import com.example.cnKart.entity.ItemReview;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

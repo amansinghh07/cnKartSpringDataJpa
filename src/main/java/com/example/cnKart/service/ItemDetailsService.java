@@ -1,6 +1,5 @@
 package com.example.cnKart.service;
 
-import com.example.cnKart.dal.ItemDetailsDalImpl;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
